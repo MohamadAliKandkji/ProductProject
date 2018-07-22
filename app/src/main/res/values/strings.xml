@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Product</string>
+    <string name="empty_view_title_text">There is No Product in the Store</string>
+    <string name="empty_view_subtitle_text">Please press on the red button to insert your product details</string>
+    <string name="ProductName">Product Name</string>
+    <string name="ProductPrice">Product Price</string>
+    <string name="ProductQuantity">Quantity</string>
+    <string name="SupplierName">Supplier Name</string>
+    <string name="SupplierPhoneNumber">Supplier Phone Number</string>
+    <string name="ProductOverView">Product Overview</string>
+    <string name="UnitPiece">Unit Piece</string>
+    <string name="NoSupplierPhone">The Supplier\'s phone Number for this product is not avaliable</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All Products</string>
+    <string name="Not_avaliable">Not available,but You can Call the supplier</string>
+    <string name="editor_activity_title_new_Product">Add a Product</string>
+    <string name="editor_activity_title_edit_Product">Edit Product</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+
+    <!-- Toast message in editor when new Product has been successfully inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_Product_successful">Product saved</string>
+
+    <!-- Toast message in editor when new Product has failed to be inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_Product_failed">Error with saving Product</string>
+
+    <!-- Toast message in editor when current Product was successfully updated [CHAR LIMIT=NONE] -->
+    <string name="editor_update_Product_successful">Product updated</string>
+
+    <!-- Toast message in editor when current Product has failed to be updated [CHAR LIMIT=NONE] -->
+    <string name="editor_update_Product_failed">Error with updating Product</string>
+
+    <!-- Dialog message when user is leaving editor but hasn't saved changes [CHAR LIMIT=NONE] -->
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+
+    <!-- Dialog button text for the option to keep editing the current Product [CHAR LIMIT=20] -->
+    <string name="keep_editing">Keep Editing</string>
+
+    <!-- Toast message in editor when current Product was successfully deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_Product_successful">Product deleted</string>
+
+    <!-- Toast message in editor when current Product has failed to be deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_Product_failed">Error with deleting Product</string>
+
+    <!-- Dialog message to ask the user to confirm deleting the current Product [CHAR LIMIT=NONE] -->
+    <string name="delete_dialog_msg">Delete this Product?</string>
+
+    <!-- Dialog button text for the option to confirm deleting the current Product [CHAR LIMIT=20] -->
+    <string name="delete">Delete</string>
+
+    <!-- Dialog button text for the option to cancel deletion of the current Product [CHAR LIMIT=20] -->
+    <string name="cancel">Cancel</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Overview</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_Product_name">Name</string>
+    <string name="sale">Sale</string>
+    <string name="UnitPrice">$</string>
+    <string name="increase">+</string>
+    <string name="decrease">-</string>
+
+
+
+    <string name="UnableToSave">Please fill all the field in order to save your product</string>
+    <string name="UnableToSaveNoProductName">Please fill Product Name field in order to save your product</string>
+    <string name="UnableToSaveNoProductPrice">Please fill Product Price field in order to save your product</string>
+    <string name="UnableToSaveNoProductQuantity">Please fill Product Quantity field in order to save your product</string>
+    <string name="UnableToSaveNoSupplierName">Please fill Supplier Name field in order to save your product</string>
+    <string name="UnableToSaveNoSupplierPhoneNumber">Please fill Supplier PhoneNumber field in order to save your product</string>
+
+
+</resources>
